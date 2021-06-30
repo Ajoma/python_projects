@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 '''
-CPRG 100 Course, Assignment #1: FIFA WORLD CUP CHAMPIONSHIPS
+Stanford Code in Place 
+Final Project: QATAR 2022 -- FIFA WORLD CUP CHAMPIONSHIPS
 Created by: Emmanuel Ajoma
 Date: 22-06-2021
 '''
